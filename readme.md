@@ -1,7 +1,9 @@
 <!--lint disable no-html first-heading-level maximum-line-length-->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/cartmanwtf/cartman-brah/master/media/Eric-Cartman.jpg" />
+  CARTMAN-BRAH to fight thought police!
+  <br />
+  <img src="https://raw.githubusercontent.com/cartmanwtf/cartman-brah/master/media/Eric-Cartman.jpg"  width=400 />
   <br>
   <br>
 </h1>
