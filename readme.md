@@ -1,10 +1,29 @@
 <!--lint disable no-html first-heading-level maximum-line-length-->
 
 <h1 align="center">
-  <img width="400" src="https://rawgit.com/wooorm/alex/master/media/logo.svg" alt="alex">
   <br>
   <br>
 </h1>
+
+So basically, Kyle has reached the Internet and is now trying to make us all police our thoughts. Really! He has created this repo called alex.js and he's trying to make us all police our thoughts!
+
+Not only that, he has also created this persona of his, @apapadimoulis so that **he** would ask **him** to add this stuff about jews to his project so that people don't think that it was **HIM** (Kyle) that really wanted this!
+
+So I thought, well you jew, so now I'm going to jew you over with your own jew-weapon! So I decided to use the code that Kyle has written and **change it** so that it does exactly the opposit -- so that it detects when **YOU WANT TO POLICE YOUR OWN THOUGHTS** and it hints you what you might have really wanted to say!
+
+Now, the problem is I don't really know this whole coding thing but I won't let it stop me. I didn't know anything about Let's Plays and it didn't stop me from being a huge star! So I called my hero Mel Gibson and we decided to team up. We're now working feverishly on learning this whole coding stuff and when we do we'll finish this project and it will be the greatest!
+
+Until then see you!
+
+And Kyle, don't think you're gonna win this time. Cause I can tell you: you won't. You simply won't!
+
+I don't know how to remove this whole stuff below so I have to keep it buy don't read this because it's all jew talk below and you don't want to get infected!
+
+Cartman-brah out!
+
+---
+
+----
 
 > 📝 **alex** — Catch insensitive, inconsiderate writing.
 
