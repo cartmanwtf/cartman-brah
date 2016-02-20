@@ -11,7 +11,7 @@
 
 So basically, Kyle has reached the Internet and is now trying to make us all police our thoughts. Really! He has created this repo called alex.js and he's trying to make us all police our thoughts!
 
-Not only that, he has also created this persona of his, @apapadimoulis so that **he** would ask **him** to add this stuff about jews to his project so that people don't think that it was **HIM** (Kyle) that really wanted this!
+Not only that, he has also created this persona of his, @apapadimoulis so that **he** would ask **him** to add this stuff about jews to his project so that people don't think that it was **HIM** (Kyle) that really wanted this! And then he acted all like "oh, sure you Alex person! You're so great and sure you have a great idea. I see you don't have any experience with open source but really it doesn't matter because you must be right because of your religion or whatever!". Really! That's what Ky;e has done. Can you believe it?! **Can you?!**
 
 So I thought, well you jew, so now I'm going to jew you over with your own jew-weapon! So I decided to use the code that Kyle has written and **change it** so that it does exactly the opposit -- so that it detects when **YOU WANT TO POLICE YOUR OWN THOUGHTS** and it hints you what you might have really wanted to say!
 
