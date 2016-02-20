@@ -3,7 +3,8 @@
 <h1 align="center">
   CARTMAN-BRAH to fight thought police!
   <br />
-  <img src="https://raw.githubusercontent.com/cartmanwtf/cartman-brah/master/media/Eric-Cartman.jpg"  width=400 />
+  <br />
+  <img src="https://raw.githubusercontent.com/cartmanwtf/cartman-brah/master/media/Eric-Cartman.jpg"  width=500 />
   <br>
   <br>
 </h1>
